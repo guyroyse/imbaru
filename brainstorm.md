@@ -51,3 +51,17 @@ Imbaru is an ancient city populated by many peoples over the ages. The last grou
     - earth 🜃
     - fire 🜂
     - water 🜄
+
+
+# Naming
+  - places that are Dwarven and Dwarves - use greek words
+  - old places that are Human and Noble Humans - use latin words
+  - new places that are Human and Non-noble Humans - use old English words
+  - Elves & Fey and their places - use Celtic
+  - really old places - use Akkadian (who spoke Akkadian???)
+    - goblinoids were first to occupy the land after the fey wars
+    - they named lots of places and build many things
+  - Dwarves use Greek letters
+  - Humans use Latin letters
+  - Elves use Devanagari letters (like Hindi)
+  - Goblinoids use Cuneiform

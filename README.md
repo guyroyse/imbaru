@@ -12,13 +12,11 @@ Imbaru is a small sphere in Myridia. It is home to a small human and dwarf settl
 
 ## Regions
 
-These are placeholder names.
-
-  - Western Mountains
-  - Bandit Hills
-  - The Lake
-  - Southern Forest
-  - Haunted Forest
+  - [Hellscathe Mountains](regions/hellscathe.md)
+  - [Scathe Ridge](regions/scathe-ridge.md)
+  - [Lake Abathos](regions/lake-abathos.md)
+  - [The Attercop](regions/attercop.md)
+  - [Damhalba Woods](regions/damhalba.md)
   - Small Swamp
   - Big Swamp
   - North Road
@@ -27,6 +25,27 @@ These are placeholder names.
   - Southern Gate Woods
   - Southern Ridge
   - Caligos Valley
-  - North Pine Woods
+  - [Ebhalba Woods](regions/ebhalba.md)
   - North Heavy Woods
   - North River Woods
+  - The River (more dangerous than the lake)
+
+
+## Places
+
+  - Demon caves in the Hellscathe Mountains
+  - Tower ruins at Scathe Point
+  - Abandoned Dwarven mines west of lake
+  - Ruins of dwarven mining village west of lake
+  - Ruins of the aquaduct source
+  - The Mines
+  - The Town
+  - Northgate
+  - Southgate
+  - The bridge
+  - Lizardfolk village
+  - Ruins of Caligos
+  - Seelie Fey stone circle
+  - Tower ruins on southern ridge
+  - Unseelie tower/base/something in southwest
+  - ruins of the broken gate
