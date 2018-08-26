@@ -12,24 +12,35 @@ Imbaru is a small sphere in Myridia. It is home to a small human and dwarf settl
 
 ## Regions
 
-  - [Hellscathe Mountains](regions/hellscathe.md)
-  - [Scathe Ridge](regions/scathe-ridge.md)
-  - [Lake Abathos](regions/lake-abathos.md)
-  - [The Attercop](regions/attercop.md)
-  - [Damhalba Woods](regions/damhalba.md)
-  - Small Swamp
-  - Big Swamp
-  - North Road
-  - North Road Forest
-  - The Farms
-  - Southern Gate Woods
-  - Southern Ridge
-  - Caligos Valley
-  - [Ebhalba Woods](regions/ebhalba.md)
-  - North Heavy Woods
-  - North River Woods
-  - The River (more dangerous than the lake)
-
+  - [Attercop Woods](regions/attercop-woods.md) - vermin infested woods
+    bordering Damhalba Woods
+  - [Big Swamp](regions/big-swamp.md) - large swamp with snakes, shambling
+    mounds, and lizardfolk
+  - [Caligos Valley](regions/caligos-valley.md) - wide wooded valley featuring
+    the ruins of Caligos
+  - [Damhalba Woods](regions/damhalba-woods.md) - dark, twisted woods where the
+    Unseelie Fey reside
+  - [Ebhalba Woods](regions/ebhalba-woods.md) - rugged pine forest where the
+    Seelie Fey reside
+  - [Hag Swamp](regions/hag-swamp.md) - small swamp with a relatively friendly
+    hag in it
+  - [Hellscathe Mountains](regions/hellscathe-mountains.md) - rocky mountains
+    riddle with caverns that are riddle with demons, devils, and fiends
+  - [Imbaru River](regions/imbaru-river.md) - large river the flows from the
+    north
+  - [Lake Abathos](regions/lake-abathos.md) - mountain lake where locals fish
+  - [Mistwood](regions/mistwood.md) - dense woods in the northeast bordering
+    Ebhabla Woods
+  - [Northway](regions/northway.md) - grassland and woods surrounding the road
+    from the north gate
+  - [Riverwood](regions/riverwood.md) - dense woods to the east of the north road
+  - [Rot Ridge](regions/rot-ridge.md) - wooded ridge giving way to red-soiled hills and stone along the
+    rise
+  - [Scathe Ridge](regions/scathe-ridge.md) - spur off the Hellscathe Mountains
+    from which bandits attack travelers along the road
+  - [Southridge](regions/southridge.md) - woods containing the south gate
+  - [The Vale](regions/the-vale.md) - settled area along a small river with
+    lots of farms
 
 ## Places
 
