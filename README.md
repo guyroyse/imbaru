@@ -40,7 +40,7 @@ Imbaru is a small sphere in Myridia. It is home to a small human and dwarf settl
   - [Fons Abathius](places/fons-abathius.md) - the ruined source of the aquaduct that fed Caligos
   - [Metallon](places/metallon.md) - ruins of Dwarven mining village west of lake
   - [Metallon Mines](places/metallon-mines.md) - abandoned Dwarven mines west of Lake Abathos
-  - [Northgate](places/firbenby.md) - gate at the north end of the sphere
+  - [Northgate](places/northgate.md) - gate at the north end of the sphere
   - [Porthbriste](places/porthbriste.md) - ruins of the broken east gate
   - [Red Tower](places/red-tower.md) - Tower ruins on southern ridge
   - [Rivercross](places/rivercross.md) - dwarf-crafted bridge over the Imbaru River
