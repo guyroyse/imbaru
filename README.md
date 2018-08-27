@@ -36,7 +36,7 @@ Imbaru is a small sphere in Myridia. It is home to a small human and dwarf settl
 
   - [Brightclach](places/brightclach.md) - stone circle of the Seelie fey
   - [Caves of Chaos](places/caves-of-chaos.md) - fiend-filled natural caverns in the Hellscathe Mountains
-  - [Firbenby](places/lizardtown.md) - village in Big Swamp with all the lizardfolk
+  - [Firbenby](places/firbenby.md) - village in Big Swamp with all the lizardfolk
   - [Fons Abathius](places/fons-abathius.md) - the ruined source of the aquaduct that fed Caligos
   - [Metallon](places/metallon.md) - ruins of Dwarven mining village west of lake
   - [Metallon Mines](places/metallon-mines.md) - abandoned Dwarven mines west of Lake Abathos
