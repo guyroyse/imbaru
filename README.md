@@ -10,7 +10,7 @@ Myridia is a campaign world that will be detailed online at a future point. Howe
 
 Imbaru is a small sphere in Myridia. It is home to a small human and dwarf settlement, the ruins of the city of Caligos, and some other interesting bits and bobs. It has a temperate and somewhat humid climate the makes fog a frequent visitor. With mountains to the west, hills to the east, and a wooded river valley down the middle, the fog tends to collect along the river and throughout the woods giving the lowlands an ethereal and mysterious quality. Ruins of previous occupation dot the landscape, including the ruins of the city of Caligos, a couple of watchtowers, and the remains of an ancient aquaduct.
 
-![Map of Imbaru](imbaru-map/imbaru.png)
+![Map of Imbaru](imbaru-map/imbaru-fullsize.png)
 
 ## Regions
 
