@@ -10,6 +10,8 @@ Myridia is a campaign world that will be detailed online at a future point. Howe
 
 Imbaru is a small sphere in Myridia. It is home to a small human and dwarf settlement, the ruins of the city of Caligos, and some other interesting bits and bobs. It has a temperate and somewhat humid climate the makes fog a frequent visitor. With mountains to the west, hills to the east, and a wooded river valley down the middle, the fog tends to collect along the river and throughout the woods giving the lowlands an ethereal and mysterious quality. Ruins of previous occupation dot the landscape, including the ruins of the city of Caligos, a couple of watchtowers, and the remains of an ancient aquaduct.
 
+![Map of Imbaru](imbaru-map/imbaru.png)
+
 ## Regions
 
   - [Attercop Woods](regions/attercop-woods.md) - vermin infested woods bordering Damhalba Woods
@@ -42,6 +44,7 @@ Imbaru is a small sphere in Myridia. It is home to a small human and dwarf settl
   - [Metallon Mines](places/metallon-mines.md) - abandoned Dwarven mines west of Lake Abathos
   - [Northgate](places/northgate.md) - gate at the north end of the sphere
   - [Porthbriste](places/porthbriste.md) - ruins of the broken east gate
+  - [Redcap Caves](place/redcap-caves.md) - cavern complex full of Goblins in Rot Ridge
   - [Red Tower](places/red-tower.md) - Tower ruins on southern ridge
   - [Rivercross](places/rivercross.md) - dwarf-crafted bridge over the Imbaru River
   - [Ruins of Caligos](places/ruins-of-caligos.md) - expansive ruins of a once great city
