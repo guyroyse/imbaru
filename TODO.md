@@ -1,20 +1,41 @@
 # To Do List for Imbaru
 
-  - create labeled map of Imbaru
-  - write up descriptions of areas of Imbaru
-    - occupants
-    - random encounter tables
-    - history
-  - map of town
-  - description of town
+  - write History of Imbaru
+  - write up descriptions of regions of Imbaru
+    - occupants, random encounter tables, history
+      - Attercop Woods
+      - Big Swamp
+      - Caligos Valley
+      - Damhalba Woods
+      - Ebhalba Woods
+      - Hag Swamp
+      - Hellscathe Mountains
+      - Lake Abathos
+      - Mistwood
+      - Northway
+      - Riverwood
+      - Rot Ridge
+      - Scathe Ridge
+      - Southridge
+      - The Vale
+  - write up descriptions of features
+  - write up descriptions of places
+    - map, inhabitants, history
+      - dwarven mine and ruined mining village
+      - aquaduct source
+      - north watchtower
+      - south watchtower
+      - lizardfolk village
+      - fey outposts
+      - goblin caves
+      - demon caves
+  - detail Westmill
     - population, occupation, services
-  - maps of tavern and inn
-  - map of dwarven mine and ruined mining village
-  - map of aquaduct source
-  - map for surface of Caligos
-  - map for south watchtower
-  - write proper history of Imbaru
-  - map of fey outpost
-  - map of lizardfolk village
-  - map of dead forest ruins
-  - map for north watchtower
+    - map and key locations
+    - maps of tavern and inn and other place adventurers frequent
+  - detail Ruins of Caligos
+    - map for surface of Caligos
+    - figure out who lives there and at what levels
+    - what is the origin of magic source
+    - lots of history here
+
