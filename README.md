@@ -1,6 +1,8 @@
 # Imbaru
 
-STOP! This repository contains all my notes and campaign details for a West Marches style megadungeon set in Myrida. If you are a player in this game or *want* to be a player in this game, read no further. Reading further will ruin the experience for you and the other players. You have been warned.
+## 🛑 STOP 🛑 ⚠️ WARNING ⚠️ 🚨 SPOILER ALERT 🚨
+
+This repository contains all my notes and campaign details for a West Marches style megadungeon set in Myrida. If you are a player in this game or *want* to be a player in this game, read no further. Reading further will ruin the experience for you and the other players. You have been warned.
 
 ## Myridia
 
@@ -8,7 +10,15 @@ Myridia is a campaign world that will be detailed online at a future point. Howe
 
 ## Imbaru
 
-Imbaru is a small sphere in Myridia. It is home to a small human and dwarf settlement, the ruins of the city of Caligos, and some other interesting bits and bobs. It has a temperate and somewhat humid climate the makes fog a frequent visitor. With mountains to the west, hills to the east, and a wooded river valley down the middle, the fog tends to collect along the river and throughout the woods giving the lowlands an ethereal and mysterious quality. Ruins of previous occupation dot the landscape, including the ruins of the city of Caligos, a couple of watchtowers, and the remains of an ancient aquaduct.
+Imbaru is a small sphere in Myridia near The Crossings but not connected to them. It has a temperate and somewhat humid climate that makes fog a frequent visitor. With mountains to the west, hills to the east, and a wooded river valley down the middle, the fog tends to collect along the river and throughout the woods giving the lowlands an ethereal and mysterious quality.
+
+There are two gates that lead to neighboring spheres in Imbaru, one each on the north and south sides. An old tiled road connects the two gates, much of it broken and covered with dirt. The north gate leads to a large, glaciated mountain with the road marked by piles of stones. The south gate leads to a flat, arid desert with scrub, cacti, and boulders littering the landscape.
+
+In the foothills of the [Hellscathe Mountains](regions/hellscathe-mountains.md) there is a large, shallow lake that forms the headwaters for a waterfall. The village of [Westmill](places/westmill.md) is located here and, true to it's name, there is a large, water-powered mill that uses the power of the falls to grind grist and smash ore. Downstream and along the the [Gate Road](features/gate-road.md) are numerous farms providing for the village.
+
+Of course, Men aren't the only inhabitants of Imbaru. There is a tribe of lizardfolk in [Big Swamp](regions/big-swamp.md) who sometimes come downriver to trade with the villagers and farmers. Kobolds are occasionally seen in the [Caligos Valley](regions/caligos-valley.md) by hunters but have never bothered anyone. Goblins are know to occasionally attack travelers in the south and bandits more frequently attack those coming from the north.
+
+Ruins of previous civilizations dot the landscape. The most notable is the ruins of the [Caligos](places/ruins-of-caligos.md) but there are others including two old watchtowers observing the two gates, the remains of an ancient aquaduct that provided water to Caligos, and an old Dwarven mine and village on the far side of [Lake Abathos](regions/lake-abathos.md).
 
 ![Map of Imbaru](imbaru-map/imbaru-fullsize.png)
 
@@ -21,8 +31,7 @@ Imbaru is a small sphere in Myridia. It is home to a small human and dwarf settl
   - [Ebhalba Woods](regions/ebhalba-woods.md) - rugged pine forest where the Seelie Fey reside
   - [Hag Swamp](regions/hag-swamp.md) - small swamp with a relatively friendly hag in it
   - [Hellscathe Mountains](regions/hellscathe-mountains.md) - rocky mountains riddled with caverns
-    that are riddled with demons, devils, and fiends
-  - [Imbaru River](regions/imbaru-river.md) - large river the flows from the north
+    that are riddled with demons
   - [Lake Abathos](regions/lake-abathos.md) - mountain lake where locals fish
   - [Mistwood](regions/mistwood.md) - dense woods in the northeast bordering Ebhabla Woods
   - [Northway](regions/northway.md) - grassland and woods surrounding the road from the north gate
@@ -33,6 +42,12 @@ Imbaru is a small sphere in Myridia. It is home to a small human and dwarf settl
     attack travelers along the road
   - [Southridge](regions/southridge.md) - woods containing the south gate
   - [The Vale](regions/the-vale.md) - settled area along a small river with lots of farms
+
+## Features
+
+  - [Gate Road](features/gate-road.md) - old, dwarven-made road connecting the two gates in Imbaru
+  - [Imbaru River](features/imbaru-river.md) - large river the flows from the north
+  - [Abathian Aquaduct](features/abathian-aquaduct.md) - ruins of the old aquduct that feed Caligos
 
 ## Places
 
@@ -51,5 +66,5 @@ Imbaru is a small sphere in Myridia. It is home to a small human and dwarf settl
   - [Scathe Ridge Tower](places/scathe-ridge-tower.md) - ruins of tower Tower ruins at Scathe Point
   - [Southgate](places/southgate.md) - gate at the south end of the spher
   - [Turdorcha](places/turdorcha.md) - dark tower of the Unseelie fey
-  - [Westfall Mines](places/westfall-mines.md) - the mines that supply the town
-  - [Westfalls](places/westfalls.md) - main town in the sphere
+  - [Westmill](places/westmill.md) - main town in the sphere
+  - [Westmill Mines](places/westmill-mines.md) - the mines that supply the town

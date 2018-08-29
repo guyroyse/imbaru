@@ -6,11 +6,11 @@ The entire world is a series of demiplanes, called spheres by those who live the
 
 This has several benefits:
 
-If you play a ranger that has a favored terrain and the adventure never takes you there, that's not fun. These means that, as a ranger, you usually will take forest since most campaigns start in temperate forests. In Myridia, odds are, you'll visit all sorts of environments and your specialization is bound to happen.
+1. If you play a ranger that has a favored terrain and the adventure never takes you there, that's not fun. These means that, as a ranger, you usually will take forest since most campaigns start in temperate forests. In Myridia, odds are, you'll visit all sorts of environments and your specialization is bound to happen.
 
-At higher levels, characters will begin to teleport everywhere and overland journeys cease to be a thing. Since teleport only works within a given plane, this makes teleport useful, but still restricts its usage for really long trips. The forces higher-level characters to make overland journeys.
+2. At higher levels, characters will begin to teleport everywhere and overland journeys cease to be a thing. Since teleport only works within a given plane, this makes teleport useful, but still restricts its usage for really long trips. The forces higher-level characters to make overland journeys.
 
-Of course, plane shift is always an option. However, it has a material component of a 250 gp tuning fork tuned to a specific plane. Since each sphere is a plane, that's a lot of tuning forks. This makes the frequency of a particular sphere a useful bit of knowledge. Something that might need to be acquired through adventure.
+3. Of course, plane shift is always an option. However, it has a material component of a 250 gp tuning fork tuned to a specific plane. Since each sphere is a plane, that's a lot of tuning forks. This makes the frequency of a particular sphere a useful bit of knowledge. Something that might need to be acquired through adventure.
 
 # The Celestial Bodies are Gods
 
@@ -20,7 +20,7 @@ The sun, moons, and planets are well know gods that many folks worship. Prominen
 
 # Familiar Names
 
-Characters can never remember the weird fantasy names we make up for characters. So why bother. The gods are given memorable names with related meanings in the real world drawn mostly from Greek and Latin (with a little Sanskrit thrown in for fun). Helios is the sun god, the moon gods are Therion and Chandra. The dwarven city-state is Lithos and the city where the priesthood have their observatory to study the sky and catalog the gods is called Theopolis. The book they catalog the gods in, the Astronomicon. The Dwarves have Greek names like Nicholas, Polynikes, or Theodosia. The Men have Latin names like Julia, Marius, or Flavia.
+Characters can never remember the weird fantasy names we make up for characters. So why bother. The gods are given memorable names with related meanings in the real world drawn mostly from Greek and Latin (with a little Sanskrit thrown in for fun). Helios is the sun god, the moon gods are Therion and Chandra. The dwarven city-state is Lithos and the city where the priesthood have their observatory to study the sky and catalog the gods is called Theopolis. The book they catalog the gods in, the Astronomicon. The Dwarves have Greek names like Nicholas, Polynikes, or Theodosia and write with Greek letters. The Men have Latin names like Julia, Marius, or Flavia and write in Latin letters.
 
 # Elves are Dangerous
 
