@@ -20,7 +20,7 @@ Of course, Men aren't the only inhabitants of Imbaru. There is a tribe of lizard
 
 Ruins of previous civilizations dot the landscape. The most notable is the ruins of the [Caligos](places/ruins-of-caligos.md) but there are others including two old watchtowers observing the two gates, the remains of an ancient aquaduct that provided water to Caligos, and an old Dwarven mine and village on the far side of [Lake Abathos](regions/lake-abathos.md).
 
-![Map of Imbaru](imbaru-map/imbaru-fullsize.png)
+![Map of Imbaru](imbaru-map/imbaru-ps.png)
 
 ## Regions
 
@@ -36,7 +36,7 @@ Ruins of previous civilizations dot the landscape. The most notable is the ruins
   - [Mistwood](regions/mistwood.md) - dense woods in the northeast bordering Ebhabla Woods
   - [Northway](regions/northway.md) - grassland and woods surrounding the road from the north gate
   - [Riverwood](regions/riverwood.md) - dense woods to the east of the north road
-  - [Rot Ridge](regions/rot-ridge.md) - wooded ridge giving way to red-soiled hills and stone along
+  - [RedRidge](regions/redridge.md) - wooded ridge giving way to red-soiled hills and stone along
     the rise
   - [Scathe Ridge](regions/scathe-ridge.md) - spur off the Hellscathe Mountains from which bandits
     attack travelers along the road
