@@ -20,7 +20,7 @@ Of course, Men aren't the only inhabitants of Imbaru. There is a tribe of lizard
 
 Ruins of previous civilizations dot the landscape. The most notable is the ruins of the [Caligos](places/ruins-of-caligos.md) but there are others including two old watchtowers observing the two gates, the remains of an ancient aquaduct that provided water to Caligos, and an old Dwarven mine and village on the far side of [Lake Abathos](regions/lake-abathos.md).
 
-![Map of Imbaru](imbaru-map/imbaru-ps.png)
+![Map of Imbaru](imbaru-map/imbaru.png)
 
 ## Regions
 
