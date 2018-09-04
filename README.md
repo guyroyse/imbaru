@@ -66,5 +66,5 @@ Ruins of previous civilizations dot the landscape. The most notable is the ruins
   - [Scathe Ridge Tower](places/scathe-ridge-tower.md) - ruins of tower Tower ruins at Scathe Point
   - [Southgate](places/southgate.md) - gate at the south end of the spher
   - [Turdorcha](places/turdorcha.md) - dark tower of the Unseelie fey
-  - [Westmill](places/westmill.md) - main town in the sphere
+  - [Westmill](places/westmill/) - main town in the sphere
   - [Westmill Mines](places/westmill-mines.md) - the mines that supply the town
