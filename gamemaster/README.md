@@ -4,13 +4,15 @@
 
 This repository contains all the notes and campaign details. If you are a player in this game or *want* to be a player in this game, read no further. Reading further will ruin the experience for you and the other players. You have been warned.
 
-## History of Imbaru
+## Imbaru
 
-## Map
+### History
+
+### Geography
 
 ![Map of Imbaru](imbaru.png)
 
-## Regions
+#### Regions
 
   - [Attercop Woods](regions/attercop-woods.md) - vermin infested woods bordering Damhalba Woods
   - [Big Swamp](regions/big-swamp.md) - large swamp with snakes, shambling mounds, and lizardfolk
@@ -31,13 +33,13 @@ This repository contains all the notes and campaign details. If you are a player
   - [Southridge](regions/southridge.md) - woods containing the south gate
   - [The Vale](regions/the-vale.md) - settled area along a small river with lots of farms
 
-## Features
+#### Features
 
   - [Gate Road](features/gate-road.md) - old, dwarven-made road connecting the two gates in Imbaru
   - [Imbaru River](features/imbaru-river.md) - large river the flows from the north
   - [Abathian Aquaduct](features/abathian-aquaduct.md) - ruins of the old aquduct that feed Caligos
 
-## Places
+#### Places
 
   - [Brightclach](places/brightclach.md) - stone circle of the Seelie fey
   - [Caves of Chaos](places/caves-of-chaos.md) - fiend-filled natural caverns in the Hellscathe Mountains
