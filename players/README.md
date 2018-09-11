@@ -57,7 +57,7 @@ construction.
   - **Brewer** - Every town needs a brewery. Grain from the surrounding farms is processed to make beer.
   - **Blacksmith** - Aldrin Smith takes pigiron from the mines and works it into useful things such as hinges,
     nails, horseshoes, and tools. In times of need he can also make basic weapons.
-  - **Tannery** About a mile east or Westmill near the mines, is the tannery.
+  - **Tannery** About a mile east of Westmill near the mines, is the tannery.
 
 ### Government
 
