@@ -1,8 +1,25 @@
 # The Story of Imbaru
 
+## The Eternals
+
+The race of demigods incarnate are the oldest creatures to walk to spheres. They were before the Elves and Orcs, before the the Elementals, before the Fey, and before the Breaking.
+
+## The City of the Eternals
+
+The deepest layer of Caligos is the primeval City of the Eternals. It is in this place that the Eternals would meet and many dwelt before the Elementals and the Fey were created. Even once they arrived, the City of the Eternals was a place where they would all meet.
+
+One of the Eternals, named *something or other* was really, really bad.
+
+
 ## The Fey War
 
-In the ancient past, before the world was broken, the Fey and the Elementals had a great war. The Elementals broke the world in an attempt to prevent the Fey from thriving but it backfired and both the Fey and the Elementals were driven to obscurity.
+In the ancient past, before the world was broken, the Fey and the Elementals had a great war. The Elementals broke the world in an attempt to sort the elements out and undremine how Life worked. The Fey sabotaged this efforts, and the world was broken instead. Everyone isolated into spheres with no way to reach each other, the war continued in small pockets until only tiny enclaves remained of the Fey and the Elementals.
+
+# The Eternals Act
+
+Many of the Eternals, seeing the effect that the breaking was having on life, created a series of gates to connect the spheres. The City of the Eternals, located where Imba
+
+Broken into isolated spheres, the war turned into several small conflicts and simply ended. Elementals prevent the Fey from thriving but it backfired and both the Fey and the Elementals were driven to obscurity.
 
 Deep beneath where the City of Caligos was to stand, there was a great Elemental power. A magical source of Earth around which the Dao has build their capital city. After the war, the city was in ruins but some of the Dao remained. And the power certainly remained.
 
