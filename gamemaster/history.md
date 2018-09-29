@@ -1,5 +1,96 @@
 # The Story of Imbaru
 
+- The City of the Eternals (8000 years ago)
+  - Fey and Elemental are welcome
+  - great and powerful magics
+
+- War between Fey & Elemental (5500 years ago)
+  - was always brewing - order vs. chaos
+  - Eternals stay neutral
+  - Evil Eternal makes a doomsday weapon for the Elementals
+    - does lots of other crazy bad stuff
+    - she must be stopped
+  - the Eternals capture her, imprison her
+  - the war is going badly for the Elementals
+    - trigger doomsday weapon in City of Eternals
+    - breaks the world
+    - City of Eternals is swallowed in a great rift as the world is sundered
+  - war ends, the Elementals having won but at great cost
+    - Fey retreat to the Feywild
+    - The few Elementals that remain, hole up in tiny enclaves
+      - Elementals and elements can cross between the spheres
+      - The Fey cannot but the Feywild connects all
+  - Elementals and Fey establish small outposts
+    - monitor the ruins of the City of Eternals
+    - monitor each other
+
+- Rise of the Races (5000 years ago)
+  - magics weilded during the war resulted in mutations
+  - many plants and animals mutated to more willful forms
+    - elves and orcs first
+    - dwarves and goblins
+    - men and small folk
+  - races were isolated and could not cross the spheres
+
+- Making the Gates (3000 years ago)
+  - Eternals return to site of their ruined city
+  - established a new, smaller city
+  - dug a shaft to access old city
+  - researched magic to build the portals
+    - to help the fledgling races and wildlife to spread and thrive
+    - once completed, they sealed their cities, old and new, and dispersed
+
+- The Goblins (3000 years ago)
+  - first to arrive when the gates were made
+  - lived peacefully on the surface
+  - dug caves and warrens in the hills
+  - left assorted monuments in the valley
+
+- The Elves (2400 years ago)
+  - mostly ignore the goblins
+    - goblins avoid the elves
+  - build a city to explore the powerful magic they can sense here
+  - find the new city of the Eternals
+    - play with the magic
+    - destroy eastern gate - whoops!
+  - find the old city
+    - release the big bad
+      - not obvious this is a bad idea
+      - seems nice at first
+      - imprisoned for thousdands of year, she's batshit crazy
+      - wants to destroy all of creation and return to the void
+    - big bad betrays - surprise!
+      - kills majority of the elves
+      - elves manage to weaken her, reimprison her
+        - but she has more range of motion now
+        - looking for a way out
+    - elementals, fearing the elves, remain hidden and watch
+    - elves abandon this cursed place
+
+- The City of Caligos (1800 years ago)
+  - dwarves and men arrive, drive the goblins underground
+  - start building a city
+    - building on top of Elven foundations
+  - it is a city of great learning
+    - libraries, universities, academies
+    - everyone flocks here because of the city below
+      - but they don't know that is why
+      - just feel compelled to build and be there
+
+- The Holocaust (800 years ago)
+  - demons from the Southern Chaos pour across the gates
+  - Caligos is pulled down to ruins
+  - many undead created, demons trapped in the city
+  - large number of demons trapped in the caves of the Hellscathe Mountains
+
+- Resettlement (200 years ago)
+  - humans arrive to a mostly empty land
+  - establish town of Westmill
+  - have bucolic lives
+
+
+Before the breaking of the world, the Eternals had a grand city in Imbaru. It was a center for all the Eternals in Myridia.
+
 ## The Eternals
 
 The race of demigods incarnate are the oldest creatures to walk to spheres. They were before the Elves and Orcs, before the the Elementals, before the Fey, and before the Breaking.
