@@ -2,7 +2,11 @@
 
 > __Behind the Name__: Attercop is Old English for spider. Literally poison-head where atter means poison and cop means head.
 
-The Attercop Woods is a wooded area just to the north of the [Damhalba Woods](damhalba-woods) and south of [The Vale](the-vale). It is a mundane forest with game and the occasional predator. But, it's proximity to the unseelie fey to the south has resulted in an unusually large amount of vermin, particularly giant spiders and centipedes, and more supernatural beasts such as phase spiders, blights, and displacer beasts as one heads south. Hunters who come to this area stick to the northern edges as there is more game and less danger.
+The Attercop Woods is a wooded area just to the north of the [Damhalba Woods](damhalba-woods) and south of [The Vale](the-vale). It is a mundane forest with game and the occasional predator. But, it's proximity to the unseelie fey to the south has resulted in an unusually large amount of vermin as one heads south, particularly giant spiders and centipedes, and more supernatural beasts such as phase spiders, blights, and displacer beasts. Hunters who come to this area stick to the northern edges as there is more game and less danger.
+
+## Random Encounters
+
+In the northern portion of the woods, check for encounters every 8 hours. In the southern portion, check every 4 hours.
 
 | d12 + d8   | Encounter                                                         |
 |------------|-------------------------------------------------------------------|
