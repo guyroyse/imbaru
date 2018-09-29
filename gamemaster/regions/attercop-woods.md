@@ -14,7 +14,7 @@ In the northern portion of the woods, check for encounters every 8 hours. In the
 | 3 (2.08%)  | 1d3 displacer beasts (CR 3)                                       |
 | 4 (3.13%)  | owlbear (CR 3)                                                    |
 | 5 (4.17%)  | giant constrictor snakes (CR 2)                                   |
-| 6 (5.21%)  | 1d3 giant poisonous snames (CR ¼)                                 |
+| 6 (5.21%)  | 1d3 giant poisonous snakes (CR ¼)                                 |
 | 7 (6.25%)  | 50% - 1d12 poisonous snakes (CR ⅛)                                |
 |            | 50% - 1d8 constrictor snakes (CR ¼)                               |
 | 8 (7.29%)  | 1d6 giant centipedes (CR ¼)                                       |
