@@ -10,7 +10,7 @@ This repository contains all the notes and campaign details. If you are a player
 
 ### Geography
 
-![Map of Imbaru](imbaru.png)
+[![Map of Imbaru](imbaru.png)](imbaru.png)
 
 #### Regions
 
@@ -52,7 +52,7 @@ This repository contains all the notes and campaign details. If you are a player
   - [Redcap Caves](place/redcap-caves.md) - cavern complex full of Goblins in Rot Ridge
   - [Red Tower](places/red-tower.md) - Tower ruins on southern ridge
   - [Rivercross](places/rivercross.md) - dwarf-crafted bridge over the Imbaru River
-  - [Ruins of Caligos](places/ruins-of-caligos.md) - expansive ruins of a once great city
+  - [Ruins of Caligos](places/caligos) - expansive ruins of a once great city
   - [Scathe Ridge Tower](places/scathe-ridge-tower.md) - ruins of tower Tower ruins at Scathe Point
   - [Southgate](places/southgate.md) - gate at the south end of the spher
   - [Turdorcha](places/turdorcha.md) - dark tower of the Unseelie fey

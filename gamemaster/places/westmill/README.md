@@ -2,7 +2,7 @@
 
 Westmill is a large village and has a population of almost 800. Most of the population are Men, but there are a few Dwarves who have settled down here as well.
 
-![Map of Westmill](westmill.png)
+[![Map of Westmill](westmill.png)](westmill.png)
 
 ## Commerce
 
