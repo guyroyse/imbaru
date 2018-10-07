@@ -10,7 +10,7 @@ This repository contains all the notes and campaign details. If you are a player
 
 ### Geography
 
-[![Map of Imbaru](imbaru.png)](imbaru.png)
+[![Map of Imbaru](imbaru-gm.png)](imbaru-gm.png)
 
 #### Regions
 

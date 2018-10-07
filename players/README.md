@@ -6,6 +6,8 @@ This is a guide for the players in Imbaru. Everthing in this section is safe for
 
 Imbaru is a small sphere about 35 miles in diameter in Myridia near The Crossings but not connected to them. It has a temperate and somewhat humid climate that makes fog a frequent visitor. With mountains to the west, hills to the east, and a wooded river valley down the middle, the fog tends to collect along the river and throughout the woods giving the lowlands an ethereal and mysterious quality.
 
+[![Map of Imbaru](imbaru-player.png)](imbaru-player.png)
+
 There are two gates that lead to neighboring spheres in Imbaru, one each on the north and south sides. An old tiled road connects the two gates, much of it broken and covered with dirt. The north gate leads to a large, glaciated mountain with the road marked by piles of stones. The south gate leads to a flat, arid desert with scrub, cacti, and boulders littering the landscape.
 
 In the foothills of the **Hellscathe Mountains** there is a large, shallow lake that forms the headwaters for a waterfall. The village of **Westmill** is located here and, true to it's name, there is a large, water-powered mill that uses the energy of the falls to grind grist and smash ore. Downstream and along the **Gate Road** are numerous farms providing for the village.
