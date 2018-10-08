@@ -1,6 +1,6 @@
 # Player's Guide
 
-This is a guide for the players in Imbaru. Everthing in this section is safe for starting players to look at.
+This is a guide for the players in Imbaru. Everthing in this section is safe for starting players to look at including information about [Imbaru](#imbaru), the village of [Westmill](#westmill), and guides for [making a character](#making-a-character).
 
 ## Imbaru
 
