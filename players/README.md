@@ -59,7 +59,7 @@ for a period of five year. At the end, he returns to the Town Council. An indivi
 
 #### The Council of Ten
 
-The Council of Ten is a group of ten men of age 40 or older. They have three main functions: appoint the Decurio from within their ranks, appoint new members to the Council of Ten, and declare martial law in times of crises. Council members serve for life, but are free to resign if they wish, an act which tradionally happens a 70 years of age.
+The Council of Ten is a group of ten Men of age 40 or older. They have three main functions: appoint the Decurio from within their ranks, appoint new members to the Council of Ten, and declare martial law in times of crises. Council members serve for life, but are free to resign if they wish, an act which tradionally happens a 70 years of age.
 
 In addition to the powers of the entire Councile of Ten, individual members can veto any law that the assembly passes within seven days of its passing.
 
@@ -69,16 +69,16 @@ The Assembly consists of all Men and Dwarves in the town and surrounding area th
 
 #### The Militia
 
-Tasked with protecting the town and surrounding farms, the militia is made up of every able-bodied male over age 16 or older. Everyone can be called up during times of need, but most serve only a couple days watching the city entrance and the gates. Captain Falcidius is in charge of the militia, reporting directly to the current Decurio.
+Tasked with protecting the town and surrounding farms, the militia is made up of every able-bodied male age 16 or older. Everyone can be called up during times of need, but most serve only a couple days watching the city entrance and the gates. Captain Falcidius is in charge of the militia, reporting directly to the current Decurio.
 
 #### Government Buildings
 
 The government officials have to meet and work somewhere. Here are the places they use:
 
-  - **Council Hall** - This is where the Council of Ten meet and the Decurio administers.
-  - **Assembly Hall** - This is a large hall where the people of Westmill meet to practice democracy.
-  - **Constabulary** - This small building houses a few cells, and is where Constable Theodosios and his two deputies.
-  - **Armory** - The spears, shields, and bows that the militia uses are stored here. Captain Falcidius and whomever is currently on roration for the militia can usually be found here.
+  - **Council Hall** - The Council Hall is where the Council of Ten meet and the Decurio administers.
+  - **Assembly Hall** - This large hall is where the people of Westmill meet to practice their particular form of democracy.
+  - **Constabulary** - This small building houses a few cells, and is where Constable Theodosios and his two deputies work.
+  - **Armory** - The spears, shields, and bows that the militia uses are stored here. Captain Falcidius and whomever is currently on rotation for the militia can usually be found here.
 
 ### Religion
 
@@ -117,3 +117,27 @@ The generate the ability score, use [this site](https://www.rpglibrary.org/softw
 ### Starting Gear
 
 Use the rules in the Player's Handbook. If you want to roll starting gold, use the [same site](https://www.rpglibrary.org/software/securedice/) as for rolling your starting abilities.
+
+### Naming Guidelines
+
+The names in Myridia are inspired by the ancient world. Think Rome, Greece, Babylon, Sumer. Try to stick to this theme when naming your character and other things in the world.
+
+  - **Dwarves** - Dwarves are Greek and should have Greek names. Dwarves write using Greek letters.
+  - **Humans** - Humans are Roman if they are nobility. Use Roman names for them. If they are not nobility, use Old English names and words to name them. Humans write using the Roman alphabet.
+  - **Elves** - Use Celtic languages for the names of Elves. They use Devanagari characters to write.
+  - **Halflings & Gnomes** - Tend to use a mix of names. But favor a mix of Old English and Celtic names. They write using the Roman alphabet.
+  - **Dragonborn, Aasimar & Tiefling** - These ancient bloodlines draw their names from Akkadian sources. They write using cuneiform.
+  - **Orcs** - Orcs have simple, monosyllabic names. Draw historical or real-world names that match. Names in the Player's Handbook are also fine. When orcs write, they tend to use either Greek or Roman characters.
+
+### Deities
+
+Every deity in Myridia is a planet or star. There are lots of stars so you are free to make up any deity you want based on a star. Don't make up new planets without working with the gamemaster. Keep the naming guidelines in mind when you create your deity.
+
+There are some deities already established in Myridia that you are welcome to use as well:
+
+  - **Helios** - Male sun god. Represents reason, illumination, light. Man as rational creature.
+  - **Chandra** - Female moon god for the larger moon with a 28-day cycle. Represents love, comfort, emotions. Man the social creature.
+  - **Therion** - Male moon god for the smaller moon with a 14-day cycle. Chasing Chandra, Therion catches her every 28 days. Represents passion, beasts and animals, creatures of the night. Man the animal.
+  - **Kronos** - Male planetary god. Slowest moving planet in the sky. Represents old age, eternity, deep thougts, patience. The old man.
+  - **Mercurius** - Male planetary god. Fastest moving planet in the sky. Represents speed, youth, impulsivity, rashness. The young man.
+  - **Polaris** - God of the north star. Represents travel, navigation, long journeys.
