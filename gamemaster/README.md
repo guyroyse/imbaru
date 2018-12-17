@@ -26,7 +26,7 @@ This repository contains all the notes and campaign details. If you are a player
   - [Mistwood](regions/mistwood.md) - dense woods in the northeast bordering Ebhabla Woods
   - [Northway](regions/northway.md) - grassland and woods surrounding the road from the north gate
   - [Riverwood](regions/riverwood.md) - dense woods to the east of the north road
-  - [RedRidge](regions/redridge.md) - wooded ridge giving way to red-soiled hills and stone along
+  - [Redridge](regions/redridge.md) - wooded ridge giving way to red-soiled hills and stone along
     the rise
   - [Scathe Ridge](regions/scathe-ridge.md) - spur off the Hellscathe Mountains from which bandits
     attack travelers along the road
@@ -49,7 +49,7 @@ This repository contains all the notes and campaign details. If you are a player
   - [Metallon Mines](places/metallon-mines.md) - abandoned Dwarven mines west of Lake Abathos
   - [Northgate](places/northgate.md) - gate at the north end of the sphere
   - [Porthbriste](places/porthbriste.md) - ruins of the broken east gate
-  - [Redcap Caves](place/redcap-caves.md) - cavern complex full of Goblins in Rot Ridge
+  - [Redcap Caves](place/redcap-caves.md) - cavern complex full of Goblins in Redridge
   - [Red Tower](places/red-tower.md) - Tower ruins on southern ridge
   - [Rivercross](places/rivercross.md) - dwarf-crafted bridge over the Imbaru River
   - [Ruins of Caligos](places/caligos) - expansive ruins of a once great city
