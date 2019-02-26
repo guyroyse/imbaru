@@ -1,10 +1,10 @@
 # The Story of Imbaru
 
-- The City of the Eternals (8000 years ago)
+## The City of the Eternals (8000 years ago)
   - Fey and Elemental are welcome
   - great and powerful magics
 
-- War between Fey & Elemental (5500 years ago)
+## The Elemental War (5500 years ago)
   - was always brewing - order vs. chaos
   - Eternals stay neutral
   - Evil Eternal makes a doomsday weapon for the Elementals
@@ -16,10 +16,9 @@
     - breaks the world
     - City of Eternals is swallowed in a great rift as the world is sundered
   - war ends, the Elementals having won but at great cost
-    - Fey retreat to the Feywild
-    - The few Elementals that remain, hole up in tiny enclaves
-      - Elementals and elements can cross between the spheres
-      - The Fey cannot but the Feywild connects all
+    - The few Elementals that remain, retreat to other planes
+      - Elementals go to elemental planes via the Ethereal
+      - The Fey retreat to the Feywild
   - Elementals and Fey establish small outposts
     - monitor the ruins of the City of Eternals
     - monitor each other
