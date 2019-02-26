@@ -12,7 +12,7 @@ There are two gates that lead to neighboring spheres in Imbaru, one each on the 
 
 In the foothills of the **Hellscathe Mountains** there is a large, shallow lake that forms the headwaters for a waterfall. The village of **Westmill** is located here and, true to it's name, there is a large, water-powered mill that uses the energy of the falls to grind grist and smash ore. Downstream and along the **Gate Road** are numerous farms providing for the village.
 
-Of course, Men aren't the only inhabitants of Imbaru. There is a tribe of lizardfolk in Big Swamp who sometimes come downriver to trade with the villagers and farmers. Kobolds are occasionally seen in the **Caligos Valley** by hunters but have never bothered anyone. Goblins are know to occasionally attack travelers in the south and bandits more frequently attack those coming from the north.
+Of course, Men aren't the only inhabitants of Imbaru. There is a tribe of lizardfolk in **Big Swamp** who sometimes come downriver to trade with the villagers and farmers. Kobolds are occasionally seen in the **Caligos Valley** by hunters but have never bothered anyone. Goblins are know to occasionally attack travelers in the south and bandits more frequently attack those coming from the north.
 
 Ruins of previous civilizations dot the landscape. The most notable is the ruins of **Caligos**, an ancient city that's was destroyed centuries ago and has been abandoned ever since, but there are others including two old watchtowers observing the north and south gates, the remains of an ancient aquaduct that provided water to Caligos, and an old Dwarven mine and village on the far side of **Lake Abathos**.
 

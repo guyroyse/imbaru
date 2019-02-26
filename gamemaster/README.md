@@ -54,7 +54,7 @@ This repository contains all the notes and campaign details. If you are a player
   - [Rivercross](places/rivercross.md) - dwarf-crafted bridge over the Imbaru River
   - [Ruins of Caligos](places/caligos) - expansive ruins of a once great city
   - [Scathe Ridge Tower](places/scathe-ridge-tower.md) - ruins of tower Tower ruins at Scathe Point
-  - [Southgate](places/southgate.md) - gate at the south end of the spher
+  - [Southgate](places/southgate.md) - gate at the south end of the sphere
   - [Turdorcha](places/turdorcha.md) - dark tower of the Unseelie fey
   - [Westmill](places/westmill/) - main town in the sphere
   - [Westmill Mines](places/westmill-mines.md) - the mines that supply the town
