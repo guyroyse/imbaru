@@ -1,12 +1,18 @@
 # The Story of Imbaru
 
-
-
 ## The Eternals
 
-The race of demigods incarnate are the oldest creatures to walk to spheres. They were before the Elves and Orcs, before the Goblinoids, before the the Elementals and the Fey, and before the Breaking.
+Shortly after the creation of Myridia, many powerful spirits decided to enter the world to avoid the struggles of the Gods. These spirits bound themselves to the matter and energy of the world. Called the Eternals, they are a race of demigods incarnate and are the oldest creatures to walk the spheres. They were before the Elves and Orcs, before the Goblinoids, before the the Elementals and the Fey, and before life itself. They emerged from [The Source](places/the-source/), deep beneath what would eventually be the [Ruins of Caligos](/gamemaster/places/caligos).
+
+## The Binding
+
+Seeing how the Eternals had bound themselves to the newly created world, the Gods decided to populate Myridia with all manner of beings. The Gods of Order created the Elementals—powerful spirits bound to the air, earth, fire, or water of Myridia and ruled by the Genie. The Gods of Chaos instead bound weak spirts to all the elements, creating mundane plants and animals to fill the air, sea, and land. Other Gods with more mysterious agendas created beings of mixed elements such as the Mephits and stranger creatures made of no elements at all.
+
+The Elementals, being the more powerful of the spirits, had domain over all. But life, as they say, finds a way and the Chaos present in their creation allowed the plants and animals to change and mutate giving rise to new, more powerful forms. The pinnacle of this process was the Fey.
 
 ## The City of the Eternals
+
+In time, the Eternals build a great city full of wonder.
 
 Before the breaking of the world, the Eternals had a grand city in Imbaru. It was a center for all the Eternals in Myridia.
 
